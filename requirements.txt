@@ -2,7 +2,7 @@ selenium==3.141.0
 proxybroker==0.3.2
 asyncio==3.4.3
 numpy==1.18.1
-scipy==1.4.1
+scipy==1.10.0
 pysimplegui==4.14.1
 bs4==0.0.1
 fake_useragent==0.1.11
